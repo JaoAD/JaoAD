@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jao! <img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="25"></h2>
-<p><em>Computer Enginner at <a href="https://www.ama.edu.ph/">AMA University</a><img src="https://www.ama.edu.ph/wp-content/uploads/2017/05/amau_logo_basic2a.png" width="100"></br>Discord Bot Developer <a href="https://www.panzerdog.com/">Panzerdog</a><img src="https://optim.tildacdn.com/tild3038-3961-4363-b862-303432626331/-/resize/204x/-/format/webp/panzerdog-logo.png" width="30"> 
+<p><em>Computer Engineer at <a href="https://www.ama.edu.ph/">AMA University</a><img src="https://www.ama.edu.ph/wp-content/uploads/2017/05/amau_logo_basic2a.png" width="100"></br>Discord Bot Developer <a href="https://www.panzerdog.com/">Panzerdog</a><img src="https://optim.tildacdn.com/tild3038-3961-4363-b862-303432626331/-/resize/204x/-/format/webp/panzerdog-logo.png" width="30"> 
 </em></p>
 
 [![Linkedin: jaomike](https://img.shields.io/badge/-jaomike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaomike/)](https://www.linkedin.com/in/jaomike/)
