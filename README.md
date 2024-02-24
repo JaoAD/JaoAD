@@ -31,7 +31,7 @@ const Jao = {
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,figma,github,html,js,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,discordjs,figma,github,html,js,nodejs,postman,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
