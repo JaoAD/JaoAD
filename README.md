@@ -12,7 +12,7 @@
 const Jao = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Jira],
+  tools: [React, Prisma, Mysql , Redux, Node, Jira],
  challenge: "I am taking a course in ReactJS"
 }
 ```
@@ -31,7 +31,7 @@ const Jao = {
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,discordjs,bots,figma,github,html,js,nodejs,postman,react,redux,npm,pnpm,vite,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,discord,discordjs,bots,prisma,mysql,figma,github,html,js,nodejs,postman,react,redux,npm,pnpm,vite,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
